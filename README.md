@@ -1,16 +1,30 @@
-## Hi there 👋
+# I'm Praneel 
 
-<!--
-**Prabeel/Prabeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECM Student | Robotics & Embedded Systems
 
-Here are some ideas to get you started:
+## Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Mochi - Companion Robot
+
+🚤 RoboBoat - Autonomous Surface Vehicle
+
+🦾 Vision-Guided Robotic Arm (Upcoming)
+
+
+## Learning
+- C
+- C++
+- Arduino
+- ESP8266
+- Git
+
+## Interests
+- Robotics
+- Embedded Systems
+- Automation
+- Autonomous Navigation
+- Computer Vision
+
+## Featured Projects
+-Mochi autonomous study partner
+-Autonomous Surface Vehicle
